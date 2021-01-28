@@ -25,15 +25,15 @@ void main()
 
 	do
 	{
-		printf("\nMAIN MENU");
-		printf("\n1.INSERTION \n2.INORDER DISPLAY \n3.EXIT");
-		printf("\nENTER YOUR CHOICE ");
+		printf("\n<----MAIN MENU---->");
+		printf("\n1.Insertion \n2.Inorder Display \n3.Exit");
+		printf("\nEnter Your Choice ");
 		scanf("%d",&choice);
 
 		switch(choice)
 		{
 			case 1:
-				printf("\nENTER DATA ");
+				printf("\nEnter Data ");
 				scanf("%d",&x);
 				t=insertion(t,x);
 				inorder(t);
