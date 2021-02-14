@@ -14,6 +14,6 @@ The Functions :
 
   1. Inserting Into The AVL Tree
   
-  2.
+  2. Displays The Elements In Order Of Entry
   
   3.
