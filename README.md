@@ -16,4 +16,4 @@ The Functions :
   
   2. Displays The Elements In Order Of Entry
   
-  3.
+  3. Termintaes The Program
