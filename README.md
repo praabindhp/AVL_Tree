@@ -1,6 +1,8 @@
 # AVL_Tree
 C Program For AVL Tree
 
+C is a general-purpose, procedural computer programming language supporting structured programming, lexical variable scope, and recursion, with a static type system. By design, C provides constructs that map efficiently to typical machine instructions.
+
 This is a C Program for Implementation of Adelson-Velskii & Landis Trees
 
 The Options :
